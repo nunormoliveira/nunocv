@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nunocv/precache-manifest.8668657f36cbbd121a5aaf23f97285de.js"
+  "/nunocv/precache-manifest.6290bacafc51b8fefa3e6f42ae8ff1e2.js"
 );
 
 workbox.clientsClaim();
