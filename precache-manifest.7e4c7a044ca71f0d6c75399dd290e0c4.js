@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/nunocv/static/js/runtime~main.11ddae0c.js"
   },
   {
-    "revision": "b61fc118078e406acb9c",
-    "url": "/nunocv/static/js/main.b61fc118.chunk.js"
+    "revision": "6a614090121d1e4adcf7",
+    "url": "/nunocv/static/js/main.6a614090.chunk.js"
   },
   {
     "revision": "c1e44435e925a9672a5a",
     "url": "/nunocv/static/js/1.c1e44435.chunk.js"
   },
   {
-    "revision": "b61fc118078e406acb9c",
+    "revision": "6a614090121d1e4adcf7",
     "url": "/nunocv/static/css/main.8274d7da.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/nunocv/static/css/1.8e54791c.chunk.css"
   },
   {
-    "revision": "939a983ea6179018295c43bc2e5792bc",
+    "revision": "c681ddae23bc39e744c6a4cf0bce4246",
     "url": "/nunocv/index.html"
   }
 ];
